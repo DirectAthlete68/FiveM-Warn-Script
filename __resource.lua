@@ -7,6 +7,6 @@ server_scripts {
 
 client_scripts {
 		"client.lua",
-		"vars/variables.lua",
+		"variables.lua",
 }
 
